@@ -6,11 +6,14 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## Introduction
+
+A very simple project trying to learn git and github
+
 ## How to Continue
 
 ?
 
-## Employment
+## Deployment
 
-fsdhffh
- 
+Web project, available anywhere computers are used

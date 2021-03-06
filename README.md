@@ -17,3 +17,6 @@ A very simple project trying to learn git and github
 ## Deployment
 
 Web project, available anywhere computers are used
+
+## Copyright
+notice

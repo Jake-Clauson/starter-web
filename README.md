@@ -12,7 +12,7 @@ A very simple project trying to learn git and github
 
 ## How to Continue
 
-?
+fork and pull for review
 
 ## Deployment
 
